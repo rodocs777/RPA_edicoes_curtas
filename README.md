@@ -11,7 +11,7 @@ Por isso editei um por um com a ativação da automação em cada arquivo, para 
 
 Segue vídeo da execução no youtube:
 
-youtube.com/watch?v=y6euK0nR5g4&t=13s&ab_channel=RodolfoFM
+(youtube.com/watch?v=y6euK0nR5g4&t=13s&ab_channel=RodolfoFM)
 
 
 #Python
