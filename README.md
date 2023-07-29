@@ -1,4 +1,4 @@
-Criei uma Automação assistida em RPA
+Automação assistida em RPA
 
 Feito para editar algumas linhas de vários arquivos iguais em parâmetro, de forma rápida. E validarmos se rodou com sucesso, de forma assistida.
 
