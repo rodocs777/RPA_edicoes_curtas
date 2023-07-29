@@ -9,6 +9,10 @@ Pois mesmo confiando na automação, pode ser que os parâmetros dos meus scritp
 Por isso editei um por um com a ativação da automação em cada arquivo, para validar após o RPA ter feito a edição de cada arquivo. 
 
 
+Segue vídeo da execução no youtube:
+
+youtube.com/watch?v=y6euK0nR5g4&t=13s&ab_channel=RodolfoFM
+
 
 #Python
 #Pandas
